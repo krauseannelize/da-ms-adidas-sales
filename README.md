@@ -1,13 +1,33 @@
 # Adidas Sales Analysis Dashboard 
 
+## Tools & Skills Used
+
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-%235778a4)
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Analysis-%235778a4)
+![Tableau](https://img.shields.io/badge/Tableau-Interactive%20Filtering-%235778a4)  
+
 ## Quick Access
 
 - [Raw Data](/adidas-dataset-raw.csv)
 - [Clean Data](/adidas-dataset-clean.csv)
+- [Tableau Workbook]()
+- [Tableau Public Dashboard]()
 
 ## Project Overview
 
-This tutorial series is part of the Masterschool Data program, designed to help learners deepen their understanding of data visualization using an Adidas sales dataset. Through a structured sequence of lessons, it covers advanced Tableau techniques like table calculations, level of detail expressions, and time-based analysis, progressively applying these methods to explore sales performance across regions and products. Each section builds on the previous one, offering a hands-on, practical approach to mastering interactive dashboards and uncovering business-critical insights.
+This project is a self-initiated deep dive to practically apply advanced Tableau data visualization techniques. Leveraging the core concepts and the Adidas sales dataset provided through the Masterschool Data program, my goal is to comprehensively incorporate principles learned from the "Data Modeling with Parameters, Groups and Sets" section.
+
+Key Tableau concepts that was explored:
+
+- Data Type Management
+- Table Calculations
+- Level of Detail (LOD) Expressions
+- Date & Time Analysis
+- Parameters
+- Groups
+- Sets
+
+The Tableau Public Dashboard can be [viewed online here]() and the workbook can be downloaded [here]().
 
 ## Data Cleaning
 
