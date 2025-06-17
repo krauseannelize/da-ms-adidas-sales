@@ -2,7 +2,7 @@
 
 Each row corresponds to a single transaction, and the fields enables exploration of sales performance across different regions, products, and time periods.
 
-Access the dataset by [clicking here](/adidas-dataset-original.csv).
+Access the raw dataset by [clicking here](/adidas-dataset-raw.csv), or the cleaned dataset by [clicking here](/adidas-dataset-clean.csv).
 
 ## Column Descriptions
 
